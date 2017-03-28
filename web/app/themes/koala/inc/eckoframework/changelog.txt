@@ -1,0 +1,11 @@
+ECKO FRAMEWORK CHANGELOG
+
+1.9.1
+
+	! Added: SlideShare Author Contact Method
+	! Added: SlideShare Customizer Social Profile
+	+ Plugin: Updated to Version 3.3.1
+
+1.9.0
+
+	- Minor Version Update
